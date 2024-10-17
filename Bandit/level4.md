@@ -34,14 +34,6 @@ The password for the next level is stored in the only human-readable file in the
     cat < -file07
     ```
 
-6. Copy the password displayed and use it to log into the next level (`bandit5`) via SSH:
-    ```bash
-    ssh bandit5@bandit.labs.overthewire.org -p 2220
-    ```
-
-7. Use the `exit` command to exit `bandit4` when you're done:
-    ```bash
-    exit
-    ```
+Copy the password displayed and use it to log into the next level (`bandit5`) via SSH
 
 ### Happy Hacking!

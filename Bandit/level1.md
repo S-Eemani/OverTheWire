@@ -17,15 +17,11 @@ The password for the next level is stored in a file called `-` located in the ho
     ```bash
     more -
     ```
-
-2. Copy the password displayed and use it to log into the next level (`bandit2`) via SSH:
-    ```bash
-    ssh bandit2@bandit.labs.overthewire.org -p 2220
-    ```
-
-3. Use the `exit` command to exit `bandit1` when you're done:
+2. Use the `exit` command to exit `bandit1` when you're done:
     ```bash
     exit
     ```
+
+Copy the password displayed and use it to log into the next level (`bandit2`) via SSH
 
 ### Happy Hacking!
