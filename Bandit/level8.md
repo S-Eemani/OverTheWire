@@ -16,13 +16,6 @@ The password for the next level is stored in the file `data.txt` and is the only
    - `sort`: Sorts the lines in `data.txt` alphabetically.
    - `uniq -u`: Prints only the lines that occur exactly once (requires sorted data).
 
-2. Copy the password found in the unique line.
-
-3. Use the `exit` command to exit `bandit8`:
-    ```bash
-    exit
-    ```
-
----
+ Copy the password found in the unique line.
 
 ### Happy Hacking!
